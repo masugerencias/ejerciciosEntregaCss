@@ -1,0 +1,81 @@
+
+
+#titulo{
+    color:teal;
+}
+
+p strong, a, tfoot, th[scope="row"] {
+    color: red;
+}
+
+span.destacado, td strong { 
+    color: orange;
+}
+
+#subtitulo, a em{
+    color: blue;
+}
+
+p a{
+    color: red;
+}
+
+p a em{
+color:blue
+}
+
+p .especial {
+    color: purple;
+}
+
+caption{
+    color: blue;
+}
+
+thead .especial{
+    color: orange;
+}
+
+
+tfoot tr{
+    color: red;
+}
+
+tbody .especial{
+    color: orange;
+}
+
+tbody td{
+    color: green;
+}
+tbody tr{color: red;}
+
+
+
+#adicional p{
+    color: olive;
+}
+
+p #especial {
+    color: pink;
+}
+
+#adicional a{
+    color: green;
+}
+
+table {
+    border-collapse: collapse;
+    padding: 5px;
+}
+ 
+table, th, td ,tr{
+    border: 1px solid black;
+    border-collapse: collapse;
+      
+}
+
+th, td {
+	
+	padding: 8px;
+}
